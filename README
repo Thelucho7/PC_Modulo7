@@ -1,0 +1,4 @@
+user: admin
+password: admin
+
+no logre conectarlo a postgreSQL por eso lo hice con sqlite3
